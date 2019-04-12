@@ -1,4 +1,5 @@
 #!/bin/bash
+#ubuntu14.04
 
 pwd=`pwd`
 zlib_version="zlib-1.2.11"
