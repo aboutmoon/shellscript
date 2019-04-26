@@ -29,6 +29,8 @@ echo "/usr/local/ssl/lib" >> /etc/ld.so.conf
 ldconfig -v
 
 
+
+
 service sshd stop
 apt-get remove openssh-server -y
 apt-get remove openssh-client -y
